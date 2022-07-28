@@ -7,7 +7,7 @@ function App() {
     <div>
       <h3>Hello There! What is your name?</h3>
       <input></input>
-      <button onClick={() => alert("Hello")}>Say Hello</button>
+      <button onClick={() => alert("Hello")}>Say Hello there buddy</button>
     </div>
   );
 }
